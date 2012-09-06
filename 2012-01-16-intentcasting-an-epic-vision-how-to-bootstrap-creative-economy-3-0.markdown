@@ -1,5 +1,9 @@
-[Skip to content](#content)# Intentcasting an Epic Vision: How to Bootstrap Creative Economy 3.0
-January 16, 2012tags: [ebd edgenetwork](http://emergentbydesign.com/tag/ebd-edgenetwork/), [vision](http://emergentbydesign.com/tag/vision/)
+
+
+# Intentcasting an Epic Vision: How to Bootstrap Creative Economy 3.0
+January 16, 2012
+
+tags: [ebd edgenetwork](http://emergentbydesign.com/tag/ebd-edgenetwork/), [vision](http://emergentbydesign.com/tag/vision/)
 
 Q: How do the Amish [raise a barn](http://en.wikipedia.org/wiki/Barn_raising) without money?
 
