@@ -101,8 +101,8 @@ Tagline:
 
 ‘unfolding a 21st century renaissance’
 
-****.  
-***** intentcast**: logo design****. ****
+**.  
+*** intentcast**: logo design**. **
 
 This could be just be a custom font of the 3 letters ‘EBD’, or could be accompanied by a logo image. I like stuff that conveys evolutionary development, universal patterns, emergence, complex systems, awakening, enlightenment, liberation. Also want to retain some personal association with brand that would embody words like vulnerable, strong, feminine, sexy, playful, serious, wise, paradox.
 
@@ -158,7 +158,7 @@ Born of the yearning to grow together as people and build our culture through do
 
 * possession to stewardship
 
-****. ****
+**. **
 
 **Culture we cultivate** ([via k kelly](http://www.kk.org/thetechnium/archives/2008/06/scenius_or_comm.php)):
 
@@ -171,7 +171,7 @@ Born of the yearning to grow together as people and build our culture through do
 > • ** Local tolerance for the novelties** — The local “outside” does not push back too hard against the transgressions of the scene. The renegades and mavericks are protected by this buffer zone.
 > 
 
-****. ****
+**. **
 
 **Some principles and values:**
 
@@ -201,7 +201,7 @@ We are [Polytopians](http://spacecollective.org/projects/Polytopia/) and [Knowma
 
 We are [Players of Infinite Games](http://www.worldtrans.org/pos/infinitegames.html).
 
-****. ****
+**. **
 
 **Our practice:**
 
@@ -241,13 +241,13 @@ Like [gphangouts](http://gphangouts.com/), but for this specific community of pr
 
 This is an invitation-only group David Hodgson and I started early last year on Facebook to gather the change agents. Now there’s over 1,500 members! I just wanna give props to this bubbling cauldron of activity by displaying a page with links to all the distributed places where Next Edgers are curating content on the web.
 
-****. ****
+**. **
 
 *****intentcast**: a custom community platform.
 
 We’re using Atlassian Confluence for the Collaboratory. Here’s [an article about Confluence as an enterprise Facebook](http://www.lunatech-research.com/archives/2009/12/10/confluence-enterprise-facebook), for a shorter term solution.
 
-****. ****
+**. **
 
 **5. Emergence Collective**
 
@@ -335,7 +335,7 @@ Taking the assessment and sharing your role is a prerequisite to participating i
 
 If you’d like to join the ‘tory, you can [request access here](http://collaboratory.cc/)![:)](http://s0.wp.com/wp-includes/images/smilies/icon_smile.gif?m=1129645325g)
 
-****. ****
+**. **
 
 **7. MemeFusion**
 
@@ -357,7 +357,7 @@ Probably local initiatives here in Beacon, NY, or regionally in the eastern corr
 
 ****intentcast**: project based, but would be great to have a few local Beaconites to team with on things.
 
-****. ****
+**. **
 
 **9. EBD TV**
 
@@ -371,7 +371,7 @@ Add yourself or your requests on the [EBD TV piratepad](http://piratepad.net/ebd
 
 *****intentcast**: production team. Apprentices, Journeymen and Masters.
 
-****. ****
+**. **
 
 **10. Emergent Press**
 
@@ -403,7 +403,7 @@ It’s relatively lightweight in terms of not needing extra overhead in meatspac
 
 Also, self-care is needed. Doing The Work is an intense and exhausting process, however rewarding it may be. For me that means healthy food, yoga, meditation retreats, massage, convening with nature, and whatever else I feel I need to keep the muse with me.
 
-****. ****
+**. **
 
 **2. Pay it Forward Fund**
 
