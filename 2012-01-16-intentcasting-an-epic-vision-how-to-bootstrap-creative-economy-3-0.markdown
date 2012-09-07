@@ -19,11 +19,19 @@ Because we’re invested in ourselves and each other and are stakeholders in our
 
 So. How does that ethic translate to online community, and can we show that we have one?
 
-****Let’s intentcast to bootstrap Creative Economy 3.0****
+  
+
+**\*\*Let’s intentcast to bootstrap Creative Economy 3.0\*\***
+
+  
 
 **What is intentcasting?**
 
+  
+
 I came across this concept on Seb Paquet’s blog, [Emergent Cities](http://emergentcities.sebpaquet.net/). He describes it as follows:
+
+  
 
 Interest brings groups together, but intent is what brings teams together to actually get things done.
 
@@ -37,6 +45,8 @@ Intentcasting is deceptively simple to describe. It consists in broadcasting you
 
 * “We want this work of art to exist!”
 
+  
+
 In order for intent to catch on, it has to meet a few conditions:
 
 * It must describe a promise – a future state of affairs that could conceivably happen, explained in a way that people understand.
@@ -46,6 +56,8 @@ In order for intent to catch on, it has to meet a few conditions:
 * It must be expressed in a way that enables it to travel and spread over the communications infrastructure.
 
 * There must be other people or groups out there who resonate with the intent and can get excited enough to connect.
+
+  
 
 I really liked this framing, because it demonstrates a desired outcome and a commitment to achieve it. It’s not wishing, it’s goal setting. By making it visible and public, it’s like sending out a sonar signal and having alignments bounce back to you. The better we get at clarifying our intentions, the faster the feedback loops will accelerate.
 
@@ -63,7 +75,11 @@ I’ve wanted to do a “blog upgrade” for a while now, and of course am envis
 
 The site will feature sections that act as portals into the various facets of the EdgeNetwork. They are:
 
+  
+
 **home – our story – junto – the next edge – emergence collective – collaboratory – memefusion – projects – ebd tv – emergent press – patronage**
+
+  
 
 **1. home**
 
@@ -93,6 +109,8 @@ The site will feature sections that act as portals into the various facets of th
 
 **1. Home:**
 
+  
+
 Header:
 
 From ‘emergent by design’ to EBD
@@ -102,7 +120,8 @@ Tagline:
 ‘unfolding a 21st century renaissance’
 
 **.  
-*** intentcast**: logo design**. **
+\*\*\* intentcast**: logo design  
+**. **
 
 This could be just be a custom font of the 3 letters ‘EBD’, or could be accompanied by a logo image. I like stuff that conveys evolutionary development, universal patterns, emergence, complex systems, awakening, enlightenment, liberation. Also want to retain some personal association with brand that would embody words like vulnerable, strong, feminine, sexy, playful, serious, wise, paradox.
 
@@ -112,7 +131,7 @@ Current wordpress theme choice: [magazine by organic themes](http://www.organict
 
 .
 
-***** intentcast:** migration from wordpress.com to wordpress.org, and all associated customizations
+**\*\*\* intentcast:** migration from wordpress.com to wordpress.org, and all associated customizations
 
 .
 
@@ -221,13 +240,19 @@ Once we get the hang of this, if it proves to be valued and desired by the publi
 
 Revenue share: revenues are split among the 4 participants. (juntos will have 4 people. me as curator, and 3 diverse perspectives on a topic area)
 
-*****intentcast**: participants and desired topic ideas
+  
+
+**\*\*\*intentcast**: participants and desired topic ideas
 
 Add yourself or your requests on the [EBD TV piratepad](http://piratepad.net/ebdtv)
 
 We’ll use google hangouts and buzzumi, both free.
 
-*****intentcast**: calendar/programming schedule
+  
+
+**\*\*\*intentcast**: calendar/programming schedule
+
+  
 
 Need to show when upcoming juntos are happening, and on what topic area. There are a bunch of people in our community already engaging in this practice, so it would be excellent to have a shared database/programming schedule where everyone can submit their juntos.
 
@@ -243,7 +268,7 @@ This is an invitation-only group David Hodgson and I started early last year on 
 
 **. **
 
-*****intentcast**: a custom community platform.
+**\*\*\*intentcast**: a custom community platform.
 
 We’re using Atlassian Confluence for the Collaboratory. Here’s [an article about Confluence as an enterprise Facebook](http://www.lunatech-research.com/archives/2009/12/10/confluence-enterprise-facebook), for a shorter term solution.
 
@@ -253,7 +278,11 @@ We’re using Atlassian Confluence for the Collaboratory. Here’s [an article a
 
 “a community of collaborators: individuals, businesses, organizations in ethical alignment and coherence”
 
-*****intentcast**: mentorship program
+  
+
+**\*\*\*intentcast**: mentorship program
+
+  
 
 We’re creating a mentorship program where we can assist each other through a learning process around writing, research, community development, and tribal leadership.
 
@@ -271,7 +300,11 @@ We create a scaffolded learning system based on a cascading series of mentor-pro
 
 If you’d like to be either a mentor or protégé, email me your intention and I’ll get back to you when we put together an application form. emergentbydesign at gmail dot com
 
-*****intentcast**: community blog + project area + crowdfunding mechanism + intentcast + next-gen profile
+  
+
+**\*\*\*intentcast**: community blog + project area + crowdfunding mechanism + intentcast + next-gen profile
+
+  
 
 I’d like a community blog for the Emergence Collective, with a curated area to showcase projects in development. I’d like to display the projects on cards, and have non-time-based donation buttons on them. The cards will also display “next-gen” superhero profiles, which show people’s heartsongs, vision boards, playlists, roles & personas, strengths, and intents for accelerating their projects.
 
@@ -283,11 +316,15 @@ We could just use buddypress, but I am more inspired to see if [folkert gorter](
 
 (I think spacecollective is the most aesthetically pleasing site currently on the web. I always imagined [emergencecollective.org](http://emergencecollective.org/) to be the action-oriented branch of the philosophical-oriented spacecollective.org)
 
-*****intentcast**: editorial team. Apprentices, Journeymen, Masters
+  
+
+**\*\*\*intentcast**: editorial team. Apprentices, Journeymen, Masters
+
+  
 
 **6. Collaboratory**
 
-“systems intelligence & innovation design lab + global foresight commons (a Wikipedia for Getting *Shift* Done)”
+“systems intelligence & innovation design lab + global foresight commons (a Wikipedia for Getting \*Shift\* Done)”
 
 This is our backroom playspace. Think of it like the artisan’s workshop. If you become a patron of the creative process, you get access to the inner workings. Blog posts still being baked in co-creation, book drafts you can offer feedback to, and access to a weekly newsletter (“Thought Architecture”) which is essentially personal musings by me about the creative economy, leadership, innovation, and the joys and struggles of my existence.
 
@@ -303,6 +340,8 @@ The Collaboratory is essentially an engine of co-creation combined with a Common
 
 The metaphor we’ve been using to conceptualize it is Storefront / Cafe / Backroom.
 
+  
+
 **Storefront:**
 
 This is like the Macy’s window from the street. It’s your showcase of the “best of” what’s inside. Public-facing view of your projects and ventures.
@@ -315,19 +354,33 @@ This is your shop. Just like stores have rules to enter (“no shirt, no shoes, 
 
 This is the creator’s workshop. Deepest level of access permissions. Maybe it’s just your core team and your workflow management. Maybe it’s where you invite potential collaborators or investors to check out your big picture vision. It might be a bit chaotic, but it’s where the magic happens.
 
-*****intentcast**: participants who want to play. we have 25 so far.
+  
 
-*****intentcast**: someone who can install SQL and Confluence when we go self-hosted.
+**\*\*\*intentcast**: participants who want to play. we have 25 so far.
 
-*****intentcast**: WikiGardeners & Curators for the GetShiftDoneipedia.
+  
 
-*****intentcast:** Sherpas and Guides to be welcoming party give orientation for n00bs in the Collaboratory.
+**\*\*\*intentcast**: someone who can install SQL and Confluence when we go self-hosted.
+
+  
+
+**\*\*\*intentcast**: WikiGardeners & Curators for the GetShiftDoneipedia.
+
+  
+
+**\*\*\*intentcast:** Sherpas and Guides to be welcoming party give orientation for n00bs in the Collaboratory.
+
+  
 
 Also looking for co-creators for white papers & research about organizational transition that we can offer to companies to help them ride the edge.
 
 We have one community member, Bernd Nurnberger, who is currently paying monthly for our hosted license for 25 user accounts. If we each just pitch in $5/month, the cost is distributed, and we essentially “co-own” our collaboration infrastructure. with scale, the price drops.
 
-*****intentcast**: free Atlassian license. Much of what we’re doing [qualifies as an open source project](http://www.atlassian.com/software/views/open-source-license-request)
+  
+
+**\*\*\*intentcast**: free Atlassian license. Much of what we’re doing [qualifies as an open source project](http://www.atlassian.com/software/views/open-source-license-request)
+
+  
 
 Another thing we’re experimenting with is dynamic team formation and developing methods to evaluate and strengthen human infrastructure. This emerged from my thoughts about [a strengths-based society](http://emergentbydesign.com/2010/03/09/framework-for-a-strengths-based-society/). To that end, we’ve created a partnership with [The Gabriel Institute](https://thegabrielinstitute.com/index.php) and they are providing us with role-based assessments, which provide measures of [Coherent Human Infrastructure](https://thegabrielinstitute.com/consulting.php) indicators. Learn more about [the roles in an innovation team](https://thegabrielinstitute.com/Roles/).
 
@@ -343,11 +396,19 @@ If you’d like to join the ‘tory, you can [request access here](http://collab
 
 These are gatherings of change agents to mindmeld. We look for aligned “wise money” corporate patrons to sponsor our events. In exchange, they join us not as attendees, but as participants in this multi-day “unpacking” process. We let down our guards, go through a facilitated process of healing, personal growth, and group intelligence building, then watch ideas have sex. Our community demonstrates creativity and innovation and we infuse ourselves with new inspiration, corporate goes home with new ideas for organizational transformation with an eye on the horizon, and all learn and grow together. win-win.
 
-*****intentcast**: idyllic locations where we can host these events
+  
 
-*****intentcast**: facilitators and corporate shamans who can help guide these events
+**\*\*\*intentcast**: idyllic locations where we can host these events
 
-****intentcast**: corporate patrons
+  
+
+**\*\*\*intentcast**: facilitators and corporate shamans who can help guide these events
+
+  
+
+**\*\*intentcast**: corporate patrons
+
+  
 
 **8. Projects**
 
@@ -355,7 +416,9 @@ Stuff I’m personally working on.
 
 Probably local initiatives here in Beacon, NY, or regionally in the eastern corridor from NY to Montreal.
 
-****intentcast**: project based, but would be great to have a few local Beaconites to team with on things.
+  
+
+**\*\*intentcast**: project based, but would be great to have a few local Beaconites to team with on things.
 
 **. **
 
@@ -365,11 +428,15 @@ Weekly video show about cool stuff happening on the edge
 
 I had this concept for “[Metathink Mondays](http://emergentbydesign.com/2010/03/15/metathink-monday-experiment-the-power-of-twitter/)” a while back, a regularly scheduled Junto type event/show where we collectively chew on whatever is interesting at the beginning of that week. Could also evolve to include user-submitted videos, or simply be an events calendar / programming schedule of others within the network who are doing regularly scheduled content creation. (ie – [Jerry Michalski](http://therexpedition.com/) with his weekly [Yi Tan: Conversations About Change](http://yi-tan.com/) call he’s been doing for the past decade or so like clockwork.)
 
-*****intentcast**: participants and topic suggestions
+  
+
+**\*\*\*intentcast**: participants and topic suggestions
 
 Add yourself or your requests on the [EBD TV piratepad](http://piratepad.net/ebdtv)
 
-*****intentcast**: production team. Apprentices, Journeymen and Masters.
+  
+
+**\*\*\*intentcast**: production team. Apprentices, Journeymen and Masters.
 
 **. **
 
@@ -379,9 +446,13 @@ Boutique publishing house
 
 And what’s the fun of all this if we’re not publishing!? For $99 you can get an ISBN number, and boom, you’re a press. We can co-create ebooks, merch, card decks, reports, new methodologies, and so forth. Revenue sharing for those that want to play.
 
-*****intentcast**: logo design, proposed book projects to co-create (i have a few already in the hopper)
+  
 
-*****intentcast**: communications team. Apprentices, Journeymen, Masters
+**\*\*\*intentcast**: logo design, proposed book projects to co-create (i have a few already in the hopper)
+
+  
+
+**\*\*\*intentcast**: communications team. Apprentices, Journeymen, Masters
 
 .
 
@@ -397,9 +468,15 @@ Patronage supports the creative process in 2 ways:
 
 It’s relatively lightweight in terms of not needing extra overhead in meatspace, but there are costs associated with making this all work. Internet connection, cell phone, hosting, site maintenance and support, licenses, storage accounts, paying designers/illustrators/filmmakers/editors/apprentices, travel, accounting, administration, legal and advisory.
 
-*****intentcast**: patrons
+  
 
-*****intentcast**: administrative team. operational help with bookkeeping, mailing lists, newsletters, site maintenance.
+**\*\*\*intentcast**: patrons
+
+  
+
+**\*\*\*intentcast**: administrative team. operational help with bookkeeping, mailing lists, newsletters, site maintenance.
+
+  
 
 Also, self-care is needed. Doing The Work is an intense and exhausting process, however rewarding it may be. For me that means healthy food, yoga, meditation retreats, massage, convening with nature, and whatever else I feel I need to keep the muse with me.
 
@@ -409,15 +486,27 @@ Also, self-care is needed. Doing The Work is an intense and exhausting process, 
 
 Another [idea I thought about](http://emergentbydesign.com/2010/06/07/a-pay-it-forward-business-model-in-transition-to-a-new-global-society/) back in ‘10. Basically choosing people we want to support in their own personal evolutionary development process and gifting them a portion of revenues so they can bootstrap and empower themselves. Maybe this means helping a writer friend afford that poetry workshop she’s been wanting to do, or helping a craftsman friend afford that piece of equipment he needs to launch his custom-built furniture from reclaimed wood business, or helping the new Korean restaurant in town develop a decent logo and web presence to help them gain visibility and not go out of business. (all real use cases).
 
+  
+
 Bring it all together, and we have an integrated, holistic living systems organization that generates and distributes value for all.
+
+  
 
 So that’s the big picture.
 
+  
+
 ![:)](http://s0.wp.com/wp-includes/images/smilies/icon_smile.gif?m=1129645325g)
+
+  
 
 An EdgeNetwork business model to bootstrap a co-creative economy.
 
+  
+
 There are lots of us out there who are community hubs. We have overlapping edges, but also independent networks. For instance:
+
+  
 
 - Jerry Michalski has a [REXpedition EdgeNetwork](http://therexpedition.com/)
 
@@ -443,11 +532,19 @@ There are lots of us out there who are community hubs. We have overlapping edges
 
 - Seth Godin has a [Triiibes EdgeNetwork](http://www.triiibes.com/main/authorization/signIn?target=http%3A%2F%2Fwww.triiibes.com%2F)
 
+  
+
 And so on.
+
+  
 
 I think this model can work for many of us, allowing us to nurture our communities, while also sharing resources and collaborating on things when in alignment and coherence.
 
+  
+
 If we all build out functional living systems organizations, then overlay them with a connective intelligence communications and awareness infrastructure, we can be a force for positive good and transform the world.
+
+  
 
 What do we have to lose?
 
@@ -462,6 +559,8 @@ We’re all in this together.
 .
 
 v
+
+  
 
 —
 
